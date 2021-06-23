@@ -30,7 +30,7 @@ I have project experience using Pyhon,R languages.I am very interested in Financ
 |  **Type** | **Date**   | **Contents**  | **Organization**  | 
 |:-------:|:-------:|:-------:|:---------:|
 | **Undergraduate**  | 2018.3 ~ 2022.3  | Department of big data  | SOON CHUN HYANG UNIVERSITY |   
-|  **Research activities** | 2020.1~2021.3  | Undergraduate Research Student  | Applied data sicence LAB(SOON CHUN HYANG Univ)  |   
+|  **Research activities** | 2020.1~2021.12  | Undergraduate Research Student  | Applied data sicence LAB(SOON CHUN HYANG Univ)  |   
 | **master**  |  2022.3~2024.3 | Master   | Applied data sicence LAB  |   
 
 
