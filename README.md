@@ -50,8 +50,16 @@
 </p>
 <br>
 <br>
+<h3 align="center"> Career :rocket: </h3>
+|  **Type** | **Date**   | **Contents**  | **Organization**  | 
+|:-------:|:-------:|:-------:|:---------:|
+| **Undergraduate**  | 2018.3 ~ 2022.3  | Department of big data  | SOON CHUN HYANG UNIVERSITY |   
+|  **Research activities** | 2020.1~2021.12  | Undergraduate Research Student  | Applied data sicence LAB(SOON CHUN HYANG Univ)  |   
+| **master**  |  2022.3~2024.3 | Master   | Applied data sicence LAB  |   
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmsk98)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![pmsk98 Github Stats](https://github-readme-stats.vercel.app/api?username=pmsk98&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmsk98%2Fpmsk98&count_bg=%233D86C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
