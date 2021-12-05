@@ -50,14 +50,7 @@
 </p>
 <br>
 <br>
-<h3 align="center"> Career :rocket: </h3>
-|  **Type** | **Date**   | **Contents**  | **Organization**  | 
-|:-------:|:-------:|:-------:|:---------:|
-| **Undergraduate**  | 2018.3 ~ 2022.3  | Department of big data  | SOON CHUN HYANG UNIVERSITY |   
-|  **Research activities** | 2020.1~2021.12  | Undergraduate Research Student  | Applied data sicence LAB(SOON CHUN HYANG Univ)  |   
-| **master**  |  2022.3~2024.3 | Master   | Applied data sicence LAB  |   
-<br>
-<br>
+
 
 [![pmsk98 Github Stats](https://github-readme-stats.vercel.app/api?username=pmsk98&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
