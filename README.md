@@ -50,7 +50,7 @@
 </p>
 <br>
 <br>
-<h3 align="center"> Career :rocket: </h3>
+Career :rocket:
 |  **Type** | **Date**   | **Contents**  | **Organization**  | 
 |:-------:|:-------:|:-------:|:---------:|
 | **Undergraduate**  | 2018.3 ~ 2022.3  | Department of big data  | SOON CHUN HYANG UNIVERSITY |   
