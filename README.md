@@ -33,19 +33,16 @@
   <br>
 </p>
 <br>
-<br>
 <h3 align="center">  :dart: Study of interest  :dart: </h3>
 <p align="center"> - Stock movement prediction  - </p>
 <p align="center"> - Reinforcement learning   - </p>
 <p align="center"> - Optimized sales signal   - </p>
 <p align="center"> - Text Mining   - </p>
 <br>
-<br>
 <h3 align="center"> :page_with_curl: Publication :page_with_curl: </h3>
 <p align="center">
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p>
-<br>
 <br>
 <h3 align="center"> Contact 💬 </h3>
 <p align="center">
@@ -53,19 +50,14 @@
 </p>
 <br>
 <br>
-<br>
-<br>
 <h3 align="center"> Career :rocket: </h3>
-<p align="center">
 |  **Type** | **Date**   | **Contents**  | **Organization**  | 
 |:-------:|:-------:|:-------:|:---------:|
 | **Undergraduate**  | 2018.3 ~ 2022.3  | Department of big data  | SOON CHUN HYANG UNIVERSITY |   
 |  **Research activities** | 2020.1~2021.12  | Undergraduate Research Student  | Applied data sicence LAB(SOON CHUN HYANG Univ)  |   
 | **master**  |  2022.3~2024.3 | Master   | Applied data sicence LAB  |   
-</p>
 <br>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmsk98%2Fpmsk98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmsk98)](https://github.com/anuraghazra/github-readme-stats)
 
