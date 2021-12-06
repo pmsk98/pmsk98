@@ -34,6 +34,8 @@
 </p>
 <br>
 <h3 align="center">  :dart: Study of interest  :dart: </h3>
+<p align="center"> - I majored in big data engineering and my main interest is financial big data  - </p>
+<br>
 <p align="center"> - Stock movement prediction  - </p>
 <p align="center"> - Reinforcement learning   - </p>
 <p align="center"> - Optimized sales signal   - </p>
