@@ -44,6 +44,7 @@
 <h3 align="center"> :page_with_curl: Publication :page_with_curl: </h3>
 <p align="center">
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11047990"><img src="https://img.shields.io/badge/Paper 1-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/></a>
 </p>
 <br>
 <h3 align="center"> Contact 💬 </h3>
