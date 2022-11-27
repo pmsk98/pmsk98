@@ -61,8 +61,15 @@
 </p>
 <br>
 <br>
-
-
+<h3 align="center">   Award 🏆 </h3>
+<p align="center"> - DCC(Data creator camp) 1회 : 대상 (NIA)   </p>
+<p align="center"> - AI 학습용 특허 데이터를 활용한 아이디어 공모전 : 우수상 (과학기술정보통신부 & NIA)    </p>
+<p align="center"> - 인공지능 학습용 데이터 구축사업 (종합민원 이미지 인공지능 학습용 데이터) 데이터톤 : 최우수상 (과학기술정보통신부 & NIA)   -</p>
+<p align="center"> - DCC(Data creator camp) 3회 : 우수상 (NIA)  -</p>
+<p align="center"> - 빅데이터 경진대회 (순천향대학교) : 우수상  </p>
+<p align="center"> - 빅데이터공학과 학술 대회 (순천향대학교) : 장려상 
+<br>
+<br>
 [![pmsk98 Github Stats](https://github-readme-stats.vercel.app/api?username=pmsk98&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
