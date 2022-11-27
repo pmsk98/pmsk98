@@ -60,7 +60,6 @@
   <a href="mailto:pmsk989898@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=pmsk989898@gmail.com"/></a>
 </p>
 <br>
-<br>
 <h3 align="center">   Award 🏆 </h3>
 <p align="center"> DCC(Data creator camp) 1회 : 대상 (NIA)   </p>
 <p align="center"> AI 학습용 특허 데이터를 활용한 아이디어 공모전 : 우수상 (과학기술정보통신부 & NIA)  </p>
