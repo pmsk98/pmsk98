@@ -70,7 +70,4 @@
 <p align="center"> - 빅데이터공학과 학술 대회 (순천향대학교) : 장려상 
 <br>
 <br>
-[![pmsk98 Github Stats](https://github-readme-stats.vercel.app/api?username=pmsk98&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsk98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmsk98%2Fpmsk98&count_bg=%233D86C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
