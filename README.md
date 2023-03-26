@@ -57,6 +57,10 @@
 <p align="center">
   <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11197382"><img src="https://img.shields.io/badge/Paper 5-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/>
 </p>
+</p>
+<p align="center">
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11227925"><img src="https://img.shields.io/badge/Paper 6-2B579A?style=flat-square&logo=Word&logoColor=white&link=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530030"/>
+</p>
 <br>
 <h3 align="center"> Contact 💬 </h3>
 <p align="center">
