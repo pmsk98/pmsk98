@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=300&section=header&text=PMSK%20lab&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=300&section=header&text=PMSK%20&fontSize=70&animation=fadeIn)
 <br>
 <br>
 <h3 align="center">:books: Tech skill :books:</h3>
